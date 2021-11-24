@@ -1,7 +1,4 @@
-target
-/src/test/
-/src/main/resources/
 .idea
-/src/
-/src/main/
+target
+pom.xml
 /src/main/java/
