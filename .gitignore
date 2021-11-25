@@ -1,4 +1,8 @@
+# игнорируемые папки
 .idea
 target
+src/test
+src/main/resources
+
+# игнорируемые файлы
 pom.xml
-/src/main/java
